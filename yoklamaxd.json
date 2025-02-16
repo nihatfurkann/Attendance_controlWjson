@@ -1,0 +1,29 @@
+{
+    "mesaj": "Ders kaçırma takibi",
+    "ders_listesi": [
+        {
+            "ders_adi": "AYRIK YAPILAR",
+            "kaç_derse_girmedim": 0
+        },
+        {
+            "ders_adi": "FIZIK II",
+            "kaç_derse_girmedim": 0
+        },
+        {
+            "ders_adi": "AKADEMIK INGILIZCE",
+            "kaç_derse_girmedim": 0
+        },
+        {
+            "ders_adi": "MATEMATIK II",
+            "kaç_derse_girmedim": 3
+        },
+        {
+            "ders_adi": "SECMELI DERS SACMALIGI",
+            "kaç_derse_girmedim": 1
+        },
+        {
+            "ders_adi": "JAVA",
+            "kaç_derse_girmedim": 0
+        }
+    ]
+}
